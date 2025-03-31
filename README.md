@@ -34,6 +34,8 @@
 ##12-Ajoutez des informations sur les fichiers sélectionnés taille, dates...etc
 ![12 Ajoutez des informations sur les fichiers sélectionnés taille, dates...etc](date.jpg)
 
+
+
 ##13-Gestion d'erreur
 ![13 Gestion d'erreur](gestion_erreur.png)
 

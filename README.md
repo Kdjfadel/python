@@ -6,16 +6,16 @@
 ![1 et 9 Interface Graphique  et interface visuelle ](interface.png)
 
 ##2-Barre de chemin
-![2 barre de chemin ](barre_chemin.png)
+![2 barre de chemin ](chemin.png)
 
 ##3-Affichage des Fichiers et Dossiers
-![3 Affichage des Fichiers et Dossiers](affichage_doosier_ficher.png)
+![3 Affichage des Fichiers et Dossiers](affichage.png)
 
 ##4-Navigation
 ![4 Navigation ](navigation.png)
 
 ##5-Options Contextuelles
-![5 Options Contextuelles ](option.jpg)
+![5 Options Contextuelles ](options.jpg)
 
 ##6- Création de Nouveaux Dossiers voici la boite qui s'ouvre apres click sur le boutton nouveau dossier 
 ![6  Création de Nouveaux Dossiers voici la boite qui s'ouvre apres click sur le boutton nouveau dossier ](nouveau_dossier.png)

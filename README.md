@@ -1,4 +1,10 @@
 ##Explorateur de ficher realiser avec l'interface tkinter
+## Membre du groupe
+##KOUDOKODJI FADEL
+##SOGADJI CALEB
+##YALO EMILE
+##KODOKO DELVARIS
+##MIGNANWANDE Joris
 ##Ce projet est un explorateur de ficher qui permet d'ouvrir ,modifier ,ajouter des dossiers ou fichers comme favoris....etc sur un pc
 
 ##capture de chaque fonctionnalité
